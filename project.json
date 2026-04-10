@@ -1,0 +1,29 @@
+{
+  "overview": "A modern, single-page agency marketing website for MorseBits, inspired by RapidInnovation's bold dark aesthetic. Features a sticky nav, full-viewport hero, stats bar, service cards, portfolio with category filters, 7-step process timeline, testimonials carousel, blog section, and contact form — all in a dark navy/electric blue color scheme.",
+  "features": [
+    "Sticky nav with smooth-scroll section links and Book a Call CTA",
+    "Full-viewport hero with headline, subheadline, and dual CTAs",
+    "Client trust strip and 4-metric stats bar",
+    "Service cards grid with hover glow effects (Rust, Web3, AI, Email Marketing)",
+    "Portfolio with category filter tabs (All, Blockchain, AI, Rust, Web3)",
+    "Why Choose Us section with 3 strategic pillars",
+    "7-step visual process timeline",
+    "Testimonials carousel with 7 client quotes",
+    "3 blog article preview cards",
+    "Contact form with validation",
+    "Responsive footer with links, services, and social icons"
+  ],
+  "category": "agency-marketing-site",
+  "tags": [
+    "agency",
+    "marketing",
+    "portfolio",
+    "dark-theme",
+    "blockchain",
+    "ai",
+    "rust",
+    "web3",
+    "single-page"
+  ],
+  "last_updated": "2026-04-10T04:37:23.781Z"
+}
